@@ -1,12 +1,6 @@
 # Model Context Protocol servers
 
-[...previous content...]
+This repository is a collection of *reference implementations* for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP), as well as references
+to community built servers and additional resources.
 
-## 📚 Resources
-
-Additional resources on MCP.
-
-- [Claude Desktop Configuration Settings](docs/claude-mcp-personal-settings.md) - Custom settings for optimizing Claude Desktop with MCP
-- **[Awesome MCP Servers by punkpeye](https://github.com/punkpeye/awesome-mcp-servers)** (**[website](https://glama.ai/mcp/servers)**) - A curated list of MCP servers by **[Frank Fiegel](https://github.com/punkpeye)**
-
-[...rest of the content...]
+[Original content of the README file...]
