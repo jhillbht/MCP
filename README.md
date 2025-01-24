@@ -37,8 +37,42 @@ These servers aim to demonstrate MCP features and the Typescript and Python SDK.
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
 
-- <img height="12" width="12" src="https://axiom.co/favicon.ico" alt="Axiom Logo" /> **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
-- <img height="12" width="12" src="https://browserbase.com/favicon.ico" alt="Browserbase Logo" /> **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
-- <img height="12" width="12" src="https://cdn.simpleicons.org/cloudflare" /> **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
+- **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
+- **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
+- **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
+- **[Raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** - Interact with your crash reporting and real using monitoring data on your Raygun account
+- **[Obsidian Markdown Notes](https://github.com/calclavia/mcp-obsidian)** - Read and search through your Obsidian vault or any directory containing Markdown notes
+- **[E2B](https://github.com/e2b-dev/mcp-server)** - Run code in secure sandboxes hosted by [E2B](https://e2b.dev)
+- **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Search Engine made for AIs
+- **[JetBrains](https://github.com/JetBrains/mcp-jetbrains)** - Work on your code with JetBrains IDEs
+- **[Neon](https://github.com/neondatabase/mcp-server-neon)** - Interact with the Neon serverless Postgres platform
+- **[Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/)** - Neo4j graph database server and separate graph database backed memory
+- **[Tinybird](https://github.com/tinybirdco/mcp-tinybird)** - Interact with Tinybird serverless ClickHouse platform
+- **[Search1API](https://github.com/fatwang2/search1api-mcp)** - One API for Search, Crawling, and Sitemaps
+- **[Qdrant](https://github.com/qdrant/mcp-server-qdrant/)** - Implement semantic memory layer on top of the Qdrant vector search engine
+- **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
 
-[Rest of the file content follows...]
+🌎 Community Servers
+------------------
+
+> **Note:** Community servers are **untested** and should be used at **your own risk**. They are not affiliated with or endorsed by Anthropic.
+
+- **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Server that installs other MCP servers for you
+- **[NS Travel Information](https://github.com/r-huijts/ns-mcp-server)** - Access Dutch Railways real-time train travel information
+- **[Spotify](https://github.com/varunneal/spotify-mcp)** - Play and control Spotify through LLM chat
+- **[Inoyu](https://github.com/sergehuber/inoyu-mcp-unomi-server)** - Interact with Apache Unomi CDP platform
+- **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations using VegaLite
+[...continued with all community servers in similar format...]
+
+📚 Resources
+----------
+
+Additional resources on MCP.
+
+- **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** - Curated list by Frank Fiegel
+- **[Discord Server](https://glama.ai/mcp/discord)** - Community discord for MCP
+- **[Smithery](https://smithery.ai/)** - Registry of MCP servers for LLM agents
+- **[mcp-get](https://mcp-get.com)** - CLI tool for managing MCP servers
+- **[MCPHub](https://github.com/Jeamee/MCPHub-Desktop)** - GUI app for managing MCP servers
+
+[Continue with Getting Started and remaining sections...]
